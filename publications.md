@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My publications
+title: Publications
 ---
 
 Besançon, L., Peiffer-Smadja, N., Segalas, C., Jiang, H., Masuzzo, P., **Smout, C.**, Deforet, M., & Leyrat, C. (2020). *Open Science Saves Lives: Lessons from the COVID-19 Pandemic.* Biorxiv preprint. [Access here](https://doi.org/10.1101/2020.08.13.249847)

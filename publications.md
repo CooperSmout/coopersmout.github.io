@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Besançon, L., Peiffer-Smadja, N., Segalas, C., Jiang, H., Masuzzo, P., **Smout, C.**, Deforet, M., & Leyrat, C. (2020). *Open Science Saves Lives: Lessons from the COVID-19 Pandemic.* Biorxiv preprint. [Access here](https://doi.org/10.1101/2020.08.13.249847)
+Besançon, L., Peiffer-Smadja, N., Segalas, C., Jiang, H., Masuzzo, P., **Smout, C.**, Deforet, M., & Leyrat, C. (2020). [*Open Science Saves Lives: Lessons from the COVID-19 Pandemic.*](https://doi.org/10.1101/2020.08.13.249847) Biorxiv preprint.
 
 **Smout, C. A.**, (2020). *Great expectations: The neural mechanisms of prediction and attention in visual awareness.* Queensland Brain Institute, The University of Queensland (PhD thesis). [Access here](https://doi.org/10.14264/uql.2020.818)
 

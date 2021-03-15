@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: I play poker competitively to fund open science projects
 ---
 
 Hi, I'm Coops. Dr Coops.

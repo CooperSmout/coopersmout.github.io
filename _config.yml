@@ -14,9 +14,10 @@ author: Cooper Smout
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Blog: "/"
+  About Me: "aboutme"
 #  Projects: "projects"
+#  Aquaponics: "aquaponics"
   Poker: "poker"
   Resources:
     - Publications: "publications"

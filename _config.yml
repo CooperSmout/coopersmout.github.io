@@ -15,11 +15,13 @@ author: Cooper Smout
 
 navbar-links:
   About Me: "aboutme"
+  Blog: "/"
+#  Projects: "projects"
+  Poker: "poker"
   Resources:
     - Publications: "publications"
     - Presentations: "presentations"
     - Awards: "awards"
-    - Poker: "poker"
 
 # --- Logo --- #
 

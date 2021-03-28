@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Smart assurance contracts as a way of incentivising and rewarding open research behaviours
+title: Coming soon
 share-img: "/assets/img/blog/flake-it/path.jpg"
 cover-img: /assets/img/blog/flake-it/path.jpg
 gh-repo: coopersmout/coopersmout.github.io

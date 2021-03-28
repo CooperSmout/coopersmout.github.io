@@ -15,8 +15,8 @@ author: Cooper Smout
 
 navbar-links:
   Blog: "/"
-  About Me: "aboutme"
-#  Projects: "projects"
+  About: "about"
+  Open Science: "openscience"
 #  Aquaponics: "aquaponics"
   Poker: "poker"
   Resources:

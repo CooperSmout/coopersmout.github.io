@@ -101,7 +101,7 @@ keywords: "research,academia,neuroscience,openscience,poker,aquaponics"
 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#C3E3E5" # "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"

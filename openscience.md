@@ -7,10 +7,10 @@ comments: true
 carbonads: true
 ---
 
-## Project Free Our Knowledge (FOK)
+## Project Free Our Knowledge
 _The world's first collective action platform for researchers_
 
-Open science practices have the potential to radically transform the way scientists conduct and communicate their research. Unfortunately, hyper-competition between academics keeps us locked into the old way of doing things (e.g., journals, publishers, sequestering data/code, etc.) and limits the full embrace of digital communication made available by the internet. Project FOK aims to overcome this cultural inertia (otherwise known as a [collective action problem](https://en.wikipedia.org/wiki/Collective_action_problem)) by organising collective action between researchers on a global scale. Using our [website](https://freeourknowledge.org/), researchers can pledge to take action *subject to there being a critical mass of their peers who have agreed to take the same action*. By acting together, we hope to accelerate the adoption of open science practices in academia, while protecting and motivating those individuals who feel unable to take action on their own. 
+Open science practices have the potential to radically transform the way scientists conduct and communicate their research. Unfortunately, hyper-competition between academics keeps us locked into the old way of doing things (e.g., journals, publishers, sequestering data/code, etc.) and limits the full embrace of digital communication made available by the internet. Project Free Our Knowledge (FOK) aims to overcome this cultural inertia (otherwise known as a [collective action problem](https://en.wikipedia.org/wiki/Collective_action_problem)) by organising collective action between researchers on a global scale. Using our [website](https://freeourknowledge.org/), researchers can pledge to take action *subject to there being a critical mass of their peers who have agreed to take the same action*. By acting together, we hope to accelerate the adoption of open science practices in academia, while protecting and motivating those individuals who feel unable to take action on their own. 
 
 Join the mailing list [here](http://eepurl.com/dFVBVz), donate to the project [here](https://www.gofundme.com/f/rpjkz-test), or get in touch via [twitter](https://twitter.com/projectFOK), [facebook](https://www.facebook.com/projectFOK) or [email](mailto:info@freeourknowledge.org). See the [presentations page](/presentations) for a list of conferences and workshops I've presented these ideas at.
 

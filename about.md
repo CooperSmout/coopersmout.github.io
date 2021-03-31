@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Psychonaut, revolutionary, poker player
+subtitle: Psychonaut, neuroscientist, revolutionary, strategist
 ---
 
 Hi, Coops here. Dr Coops.

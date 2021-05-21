@@ -3,7 +3,7 @@ layout: page
 title: Poker
 subtitle: Because every ECR needs a side-hustle
 cover-img: 
-  - "/assets/img/WPT2020wide.jpg" : "WPT Super High Roller Event, Gold Coast (2021)"
+  - "/assets/img/WPT2020wide.png" : "WPT Super High Roller Event, Gold Coast (2021)"
   - "/assets/img/profile_macauwide.png" : "Macau (July, 2012)"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coming soon
+title: Blog coming soon
 share-img: "/assets/img/thumb.jpg"
 cover-img: /assets/img/path.jpg
 gh-repo: coopersmout/coopersmout.github.io

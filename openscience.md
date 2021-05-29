@@ -3,7 +3,7 @@ layout: page
 title: Open Science
 subtitle: What I get up to in my spare time
 cover-img: 
-  - "/assets/img/wearable_badges.jpeg" : "Some badges I made for promoting Project FOK (2019)"
+  - "/assets/img/wearable_badges_cropped.jpg" : "Some badges I made for promoting Project FOK (2019)"
   - "/assets/img/reproduce_brisbane_cropped.jpg" : "Re:produce Workshop, Brisbane (December, 2019)"
   - "/assets/img/UQ_open_science.jpg" : "University of Queensland Open Science Conference (September, 2018)"
 share-title: Cooper Smout | Open Science

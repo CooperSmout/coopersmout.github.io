@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Science
-subtitle: What I get up to in my spare time
+subtitle: Knowledge is too important to be locked up
 cover-img: 
   - "/assets/img/wearable_badges_cropped.jpg" : "Some badges I made for promoting Project FOK (2019)"
   - "/assets/img/reproduce_brisbane_cropped.jpg" : "Re:produce Workshop, Brisbane (December, 2019)"

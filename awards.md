@@ -3,6 +3,7 @@ layout: page
 title: Education and Awards
 ---
 
+* 2021 Received AUD$50k donation from a private benefactor to develop [Project Free Our Knowledge](https://freeourknowledge.org/) and conduct meta-research 
 * 2020 [Open Life Science project leaders course](https://openlifesci.org)
 * 2020 PhD Unlimited course (University of Queensland, Australia)
 * 2020 Social Enterprise Explorers course (University of Queensland, Australia)

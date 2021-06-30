@@ -21,7 +21,7 @@ navbar-links:
   Poker: "poker"
   Resources:
     - Publications: "publications"
-    - Presentations: "presentations"
+    - Talks: "talks"
     - Awards: "awards"
 
 # --- Logo --- #

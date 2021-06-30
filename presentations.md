@@ -15,9 +15,9 @@ title: Presentations
 
 **Smout, C.**, & Liu, D. (2020). [_Developing an evidence-based, decentralised scholarly communication and evaluation system_](https://youtu.be/aKHMcTsO6Eg). Unconference at the 1st meeting of the Psychological Science Accelerator (online).
 
-**Smout, C.**, Auer, T., Ilangovan, V., Marinazzo, D., Rae, C., Spaak, E., Johnstone, T., Nolan, C. & Garner, K. (2020). [_Developing collective action campaigns to change norms and drive progress in academia._](https://youtu.be/HIGPZxmc5xY) Emergent session at the 26th meeting of the Organization for Human Brain Mapping (online).
+**Smout, C.**, Auer, T., Ilangovan, V., Marinazzo, D., Rae, C., Spaak, E., Johnstone, T., Nolan, C. & Garner, K. (2020). [_Developing collective action campaigns to change norms and drive progress in academia_](https://youtu.be/HIGPZxmc5xY). Emergent session at the 26th meeting of the Organization for Human Brain Mapping (online).
 
-**Smout, C.**, & Garner, K. (2020). [_Introducing Project Free Our Knowledge._](https://youtu.be/iN50OK1jL24) Emergent session at the 26th meeting of the Organization for Human Brain Mapping (online).
+**Smout, C.**, & Garner, K. (2020). [_Introducing Project Free Our Knowledge, the collective action platform for researchers_](https://youtu.be/iN50OK1jL24). Emergent session at the 26th meeting of the Organization for Human Brain Mapping (online).
 
 **Smout, C.** (2020). _Developing collective action campaigns to change norms and drive progress  in academia._ Hackathon at the 5th meeting of the Society for the Improvement of Psychological Science (online).
 

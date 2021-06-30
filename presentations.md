@@ -7,9 +7,13 @@ title: Presentations
 
 **Smout, C.** (2021). [_Reimagining the incentivization structure in academia_](https://youtu.be/Q33K-nkzHj0). **Invited workshop** at the 27th meeting of the Organization for Human Brain Mapping (online).
 
+**Smout, C.** (2021). [_Introduction to Project Free Our Knowledge_](https://youtu.be/1SQ-h5nYJm8). Lightning talk at the 2021 meeting of the UK Reproducibility Network (online).
+
+**Smout, C.** (2020). [_Project Free Our Knowledge Update_](https://youtu.be/vzB7Vh_gkLs). Lightning talk at the 2nd meeting of the Association for Interdisciplinary Meta-Research and Open Science (online).
+
 **Smout, C.** (2020). _Using collective action to amalgamate open science discussions._ **Invited talk** at the 1st SciBeh Workshop on Building an Online Information Environment for Policy Relevant Science (online).
 
-**Smout, C.**, & Liu, D. (2020). _Accelerating progress in psychological science publishing._ Unconference at the 1st meeting of the Psychological Science Accelerator (online).
+**Smout, C.**, & Liu, D. (2020). [_Developing an evidence-based, decentralised scholarly communication and evaluation system_](https://youtu.be/aKHMcTsO6Eg). Unconference at the 1st meeting of the Psychological Science Accelerator (online).
 
 **Smout, C.**, Auer, T., Ilangovan, V., Marinazzo, D., Rae, C., Spaak, E., Johnstone, T., Nolan, C. & Garner, K. (2020). [_Developing collective action campaigns to change norms and drive progress in academia._](https://youtu.be/HIGPZxmc5xY) Emergent session at the 26th meeting of the Organization for Human Brain Mapping (online).
 

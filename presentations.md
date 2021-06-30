@@ -3,13 +3,17 @@ layout: page
 title: Presentations
 ---
 
+**Smout, C.** (2021). [_Accelerating cultural change with collective action: A Project Free Our Knowledge update_](https://youtu.be/GYja8wMob4c). Lightning talk at the 6th meeting of the Society for the Improvement of Psychological Science (online).
+
+**Smout, C.** (2021). [_Reimagining the incentivization structure in academia_](https://youtu.be/Q33K-nkzHj0). **Invited workshop** at the 27th meeting of the Organization for Human Brain Mapping (online).
+
 **Smout, C.** (2020). _Using collective action to amalgamate open science discussions._ **Invited talk** at the 1st SciBeh Workshop on Building an Online Information Environment for Policy Relevant Science (online).
 
 **Smout, C.**, & Liu, D. (2020). _Accelerating progress in psychological science publishing._ Unconference at the 1st meeting of the Psychological Science Accelerator (online).
 
-**Smout, C.**, Auer, T., Ilangovan, V., Marinazzo, D., Rae, C., Spaak, E., Johnstone, T., Nolan, C. & Garner, K. (2020). _Developing collective action campaigns to change norms and drive progress in academia._ Emergent session at the 26th meeting of the Organization for Human Brain Mapping (online).
+**Smout, C.**, Auer, T., Ilangovan, V., Marinazzo, D., Rae, C., Spaak, E., Johnstone, T., Nolan, C. & Garner, K. (2020). [_Developing collective action campaigns to change norms and drive progress in academia._](https://youtu.be/HIGPZxmc5xY) Emergent session at the 26th meeting of the Organization for Human Brain Mapping (online).
 
-**Smout, C.**, & Garner, K. (2020). _Introducing Project Free Our Knowledge._ Emergent session at the 26th meeting of the Organization for Human Brain Mapping (online).
+**Smout, C.**, & Garner, K. (2020). [_Introducing Project Free Our Knowledge._](https://youtu.be/iN50OK1jL24) Emergent session at the 26th meeting of the Organization for Human Brain Mapping (online).
 
 **Smout, C.** (2020). _Developing collective action campaigns to change norms and drive progress  in academia._ Hackathon at the 5th meeting of the Society for the Improvement of Psychological Science (online).
 
@@ -19,7 +23,7 @@ title: Presentations
 
 **Smout, C.** (2019). _Reproducible science._ **Invited panel discussion** at the Re:Produce Workshop, Brisbane, Australia.
 
-Tennant, J., Caron, B., Havemann, J., Guay, S., Colomb, J., Lantsoght, E., Tóth-Czifra, E., Kriegel, K., Ahinon, J., **Smout, C.** (2019). _Open principles._ **Invited video contribution** to the 1st module of the Open Science MOOC. Zenodo.
+Tennant, J., Caron, B., Havemann, J., Guay, S., Colomb, J., Lantsoght, E., Tóth-Czifra, E., Kriegel, K., Ahinon, J., **Smout, C.** (2019). [_Open principles._](https://youtu.be/45ZYwySQRzs) **Invited video contribution** to the 1st module of the Open Science MOOC. Zenodo.
 
 **Smout, C.** (2019). _Project Free Our Knowledge._ Lightning talk at the 1st meeting of the Association for Interdisciplinary Meta-Research and Open Science, Melbourne, Australia.
 

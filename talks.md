@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presentations
+title: Talks
 ---
 
 **Smout, C.** (2021). [_Accelerating cultural change with collective action: A Project Free Our Knowledge update_](https://youtu.be/GYja8wMob4c). Lightning talk at the 6th meeting of the Society for the Improvement of Psychological Science (online).
@@ -27,7 +27,7 @@ title: Presentations
 
 **Smout, C.** (2019). _Reproducible science._ **Invited panel discussion** at the Re:Produce Workshop, Brisbane, Australia.
 
-Tennant, J., Caron, B., Havemann, J., Guay, S., Colomb, J., Lantsoght, E., Tóth-Czifra, E., Kriegel, K., Ahinon, J., **Smout, C.** (2019). [_Open principles._](https://youtu.be/45ZYwySQRzs) **Invited video contribution** to the 1st module of the Open Science MOOC. Zenodo.
+Tennant, J., Caron, B., Havemann, J., Guay, S., Colomb, J., Lantsoght, E., Tóth-Czifra, E., Kriegel, K., Ahinon, J., **Smout, C.** (2019). [_Open principles._](https://youtu.be/45ZYwySQRzs) **Invited video contribution** to the [1st module of the Open Science MOOC](https://www.youtube.com/watch?v=qZ_NMoWrpm4). Zenodo.
 
 **Smout, C.** (2019). _Project Free Our Knowledge._ Lightning talk at the 1st meeting of the Association for Interdisciplinary Meta-Research and Open Science, Melbourne, Australia.
 

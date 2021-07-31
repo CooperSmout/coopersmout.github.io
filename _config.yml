@@ -18,11 +18,11 @@ navbar-links:
   Open Science: "openscience"
 #  Aquaponics: "aquaponics"
   Poker: "poker"
-  Meditation: "meditation"
   Resources:
     - Publications: "publications"
     - Talks: "talks"
     - Awards: "awards"
+    - Meditations: "meditations"
 
 # --- Logo --- #
 

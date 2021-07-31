@@ -5,7 +5,7 @@ share-img: "/assets/img/thumb.jpg"
 cover-img: /assets/img/path.jpg
 gh-repo: coopersmout/coopersmout.github.io
 gh-badge: [star, fork, follow]
-tags: [open science, internet, algorithm, information, Google, collective action, academia, research]
+tags: [open science, internet, algorithm, information, Google, collective action, academia, research, replication crisis, reliability]
 comments: true
 ---
 

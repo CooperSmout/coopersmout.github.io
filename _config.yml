@@ -14,11 +14,11 @@ author: Cooper Smout
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blog: "/"
   About: "about"
   Open Science: "openscience"
 #  Aquaponics: "aquaponics"
   Poker: "poker"
+  Meditation: "meditation"
   Resources:
     - Publications: "publications"
     - Talks: "talks"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why the internet is broken and how to fix it
+title: Why the internet is broken and how we can fix it
 thumbnail-img: /assets/img/reliable.jpeg
 share-img: /assets/img/reliable.jpeg
 cover-img: /assets/img/trust-puzzle.jpeg

@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Psychonaut, neuroscientist, revolutionary, strategist
+subtitle: Neuroscientist. Open Scientist. Strategist. Psychonaut. Meditator. Dancer.
+cover-img: 
+  - "/assets/img/glasshouse_mountains.jpeg" : "Glasshouse Mountains, Australia (2020)"
 ---
 
 Hi, Dr Coops here. Thanks for dropping by. 

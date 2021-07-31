@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Reliability indices for the internet
-share-img: "/assets/img/thumb.jpg"
-cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/reliable.jpeg
+share-img: /assets/img/reliable.jpeg
+cover-img: /assets/img/trust-puzzle.jpeg
 gh-repo: coopersmout/coopersmout.github.io
 gh-badge: [star, fork, follow]
 tags: [open science, internet, algorithm, information, Google, collective action, academia, research, replication crisis, reliability]

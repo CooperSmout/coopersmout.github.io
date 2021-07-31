@@ -3,7 +3,7 @@ layout: post
 title: Why the internet is broken and how we can fix it
 thumbnail-img: /assets/img/reliable.jpeg
 share-img: /assets/img/reliable.jpeg
-cover-img: /assets/img/trust-puzzle.jpeg
+cover-img: /assets/img/trust-puzzle.png
 gh-repo: coopersmout/coopersmout.github.io
 gh-badge: [star, fork, follow]
 tags: [open science, internet, algorithm, information, Google, collective action, academia, research, replication crisis, reliability]

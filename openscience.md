@@ -19,7 +19,7 @@ Open science practices have the potential to radically transform the way scienti
 
 Join the mailing list [here](http://eepurl.com/dFVBVz), donate to the project [here](https://www.gofundme.com/f/rpjkz-test), or get in touch via [twitter](https://twitter.com/projectFOK), [facebook](https://www.facebook.com/projectFOK) or [email](mailto:info@freeourknowledge.org). See the [presentations page](/presentations) for a list of conferences and workshops I've presented these ideas at.
 
-## A database for storing machine-readable article ratings
+## A database for article ratings
 In recent years, there has been an explosion of interest in post-publication peer-review, with many models proposing [multidimensional article-level ratings](https://doi.org/10.3389/fncom.2012.00079) as an alternative to unidimensional journal-level metrics (e.g, the journal impact factor). In line with these ideas, a growing number of preprint review platforms solicit reviewers’ ratings of preprints on multiple dimensions (e.g. PREreview, Rapid Reviews Covid-19), but these ratings typically remain siloed within each project, thus limiting their interoperability, searchability, and comparison between sites. 
 
 Here, we propose to develop a central database for organising and storing article ratings in a common, machine-readable format. We anticipate that this database will: (1) facilitate metaresearch into the nature of these ratings and how they relate to real-world outcomes (e.g. citations, patents, replicability), and (2) help various stakeholders in society (e.g., researchers, journalists, the general public) identify peer-rated research and assess it accordingly (e.g., new COVID-related preprints).

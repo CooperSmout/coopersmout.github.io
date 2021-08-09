@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Poker
-subtitle: Because every ECR needs a side-hustle
+subtitle: Because every ECR needs a side-hustle (apparently)
 cover-img: 
   - "/assets/img/WPTL_terminator_june2021_wide.png" : "WPTL Ultimate Terminator Event winner, Gold Coast (June, 2021)"
   - "/assets/img/WPTL_superhighroller_feb2021_wide.png" : "WPTL Super High Roller Event winner, Gold Coast (Feb, 2021)"

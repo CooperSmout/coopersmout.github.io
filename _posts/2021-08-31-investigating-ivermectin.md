@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Investigating Ivermectin: An exercise in breaking down the search for reliable information on COVID-19
+title: Investigating Ivermectin
 thumbnail-img: /assets/img/magnifying-glass.png.jpeg
 share-img: /assets/img/magnifying-glass.png.jpeg
 cover-img: /assets/img/magnifying-glass.png.jpeg

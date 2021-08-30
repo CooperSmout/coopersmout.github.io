@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Investigating Ivermectin -- An exercise in searching for reliable information
-thumbnail-img: /assets/img/magnifying-glass.png.jpeg
-share-img: /assets/img/magnifying-glass.png.jpeg
-cover-img: /assets/img/magnifying-glass.png.jpeg
+thumbnail-img: /assets/img/magnifying-glass.png
+share-img: /assets/img/magnifying-glass.png
+cover-img: /assets/img/magnifying-glass.png
 gh-repo: coopersmout/homepage
 gh-badge: [star, fork, follow]
 tags: [covid, science, internet, information, Google, reliability, academia]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Investigating Ivermectin
+title: Investigating Ivermectin -- An exercise in searching for reliable information
 thumbnail-img: /assets/img/magnifying-glass.png.jpeg
 share-img: /assets/img/magnifying-glass.png.jpeg
 cover-img: /assets/img/magnifying-glass.png.jpeg
@@ -31,4 +31,4 @@ I recently had a conversation with a friend about COVID-19, in which he expresse
 9. Consider whether I should read the article. Normally I would suggest this is best practice, but given the reputaiton of Cochrane reviews and the state of my rumbling tummy, I decide I should probably go review some breakfast instead.
 10. 
 
-_Did you find this post helpful? Let me know below, as it would encourage me to write more posts like this as I look into questions and uncertainty around COVID and other pressing global issues._
+_Let me know in the comments if you found this post helpful/not, or what processes you use to find reliable information._

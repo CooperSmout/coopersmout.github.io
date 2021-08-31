@@ -29,6 +29,6 @@ I recently had a conversation with a friend about COVID-19, in which he expresse
 8. Read the conclusion. I think this part is pretty self-explanatory:
 "Based on the current very low‐ to low‐certainty evidence, we are uncertain about the efficacy and safety of ivermectin used to treat or prevent COVID‐19. The completed studies are small and few are considered high quality. Several studies are underway that may produce clearer answers in review updates. Overall, the reliable evidence available does not support the use of ivermectin for treatment or prevention of COVID‐19 outside of well‐designed randomized trials."
 9. Consider whether I should read the article. Normally I would suggest this is best practice, but given the reputaiton of Cochrane reviews and the state of my rumbling tummy, I decide I should probably go review some breakfast instead.
-10. 
 
-_Let me know in the comments if you found this post helpful/not, or what processes you use to find reliable information._
+
+_Was this post helpful? Do you use other techniques when searching for information? Let me know in the comments below!_

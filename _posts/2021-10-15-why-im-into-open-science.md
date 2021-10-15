@@ -3,7 +3,7 @@ layout: post
 title: Why I'm into open science
 thumbnail-img: /assets/img/tenets-of-open-science.png
 share-img: /assets/img/tenets-of-open-science.png
-cover-img: /assets/img/burnout.jpeg
+cover-img: /assets/img/burnout.png
 gh-repo: coopersmout/homepage
 gh-badge: [star, fork, follow]
 tags: [publishing, academia, burnout, science, internet, information, Google, reliability]

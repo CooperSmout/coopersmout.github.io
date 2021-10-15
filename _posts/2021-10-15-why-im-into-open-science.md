@@ -10,7 +10,7 @@ tags: [publishing, academia, burnout, science, internet, information, Google, re
 comments: true
 ---
 
-*This blog is the prelude to a series of posts in which I outline my vision for an information revolution within academia and beyond. In my [first post](https://coopersmout.com/2021-07-31-reliability-indices-for-the-internet/), I described the end-goal: tackling misinformation by developing a new knowledge system based on the reliability of information. In this next post, I jump back in time to share the experiences that started me thinking about these ideas in the first place.*
+*This blog is the prelude to a series of posts in which I outline my vision for an information revolution within academia and beyond. In a [previous post](https://coopersmout.com/2021-07-31-reliability-indices-for-the-internet/), I shared the end-goal: tackling misinformation by developing a new knowledge system based on the reliability of information. In this post, I share the experiences that started me thinking about open science in the first place.*
 
 
 ## Prelude

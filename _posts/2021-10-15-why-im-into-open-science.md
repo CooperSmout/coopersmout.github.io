@@ -31,5 +31,5 @@ After years of thinking about these ideas and discussing them with practically e
 
 *Do you have any feedback on any of this? Let me know in the comments below! Stay tuned for the next blog post, where I'll introduce my proposed model for tackling the 'prestige problem' in academia.*
 
-Thumbnail image: Abbeyelder, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons
+Thumbnail image: Abbeyelder, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons /
 Cover photo: Microbiz Mag, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons

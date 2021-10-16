@@ -3,14 +3,14 @@ layout: post
 title: Why I'm into open science
 thumbnail-img: /assets/img/tenets-of-open-science.png
 share-img: /assets/img/tenets-of-open-science.png
-cover-img: /assets/img/burnout.jpeg
+cover-img: /assets/img/burnout.png
 gh-repo: coopersmout/homepage
 gh-badge: [star, fork, follow]
 tags: [publishing, academia, burnout, science, internet, information, Google, reliability]
 comments: true
 ---
 
-*This blog is the prelude to a series of posts in which I outline my vision for an information revolution within academia and beyond. In my [first post](https://coopersmout.com/2021-07-31-reliability-indices-for-the-internet/), I described the end-goal: tackling misinformation by developing a new knowledge system based on the reliability of information. In this next post, I jump back in time to share the experiences that started me thinking about these ideas in the first place.*
+*This blog is the prelude to a series of posts in which I outline my vision for an information revolution within academia and beyond. In a [previous post](https://coopersmout.com/2021-07-31-reliability-indices-for-the-internet/), I shared the end-goal: tackling misinformation by developing a new knowledge system based on the reliability of information. In this post, I share the experiences that started me thinking about open science in the first place.*
 
 
 ## Prelude
@@ -31,5 +31,5 @@ After years of thinking about these ideas and discussing them with practically e
 
 *Do you have any feedback on any of this? Let me know in the comments below! Stay tuned for the next blog post, where I'll introduce my proposed model for tackling the 'prestige problem' in academia.*
 
-Thumbnail image: Abbeyelder, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons
+Thumbnail image: Abbeyelder, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons /
 Cover photo: Microbiz Mag, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons

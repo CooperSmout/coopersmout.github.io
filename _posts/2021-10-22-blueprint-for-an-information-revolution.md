@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Bootstrapping an information revolution
-subtitle: A vision for a transparent, evidence-based, community-owned scholarly publishing system with disruptive potential
+title: Blueprint for an information revolution
+subtitle: Vision for a transparent, evidence-based, community-owned scholarly publishing system with disruptive potential
 thumbnail-img: /assets/img/boots.png
 share-img: /assets/img/boots.png
-cover-img: /assets/img/binary-code-globe.png
+cover-img: /assets/img/binary-code-globe_faded.png
 gh-repo: coopersmout/homepage
 gh-badge: [star, fork, follow]
 tags: [covid, science, internet, information, Google, reliability, academia]

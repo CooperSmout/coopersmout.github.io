@@ -2,8 +2,8 @@
 layout: post
 title: Blueprint for an information revolution
 subtitle: Vision for a transparent, evidence-based, community-owned scholarly publishing system with disruptive potential
-thumbnail-img: /assets/img/blueprint_clock.jpeg
-share-img: /assets/img/blueprint_clock.jpeg
+thumbnail-img: /assets/img/blueprint-clock.jpeg
+share-img: /assets/img/blueprint-clock.jpeg
 cover-img: /assets/img/blueprint.jpeg
 gh-repo: coopersmout/homepage
 gh-badge: [star, fork, follow]

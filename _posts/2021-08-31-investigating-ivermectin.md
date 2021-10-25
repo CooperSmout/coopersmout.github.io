@@ -37,4 +37,4 @@ https://www.vox.com/future-perfect/21504366/science-replication-crisis-peer-revi
 * Consider whether I should read the article. Normally I would suggest this is best practice, but given the reputation of Cochrane Reviews and the state of my rumbling tummy, I decide I should probably go review some breakfast instead.
 
 
-_Was this post helpful? Do you use other techniques when searching for information? Let me know in the comments below!_
+*Was this post helpful? Do you use other techniques when searching for information? Let me know in the comments below! You can also subscribe to future posts by clicking the paper aeroplane icon at the bottom of this page.*

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scholarly publishing and the future of scientific communication
+title: Scholarly publishing and the future of science
 thumbnail-img: /assets/img/journals_thumbnail.jpeg
 share-img: /assets/img/journals_thumbnail.jpeg
 cover-img: /assets/img/journals.png

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The prestige problem in academia
-thumbnail-img: /assets/img/high-impact-message-card.jpeg.jpeg
-share-img: /assets/img/high-impact-message-card.jpeg.jpeg
+thumbnail-img: /assets/img/high-impact-message-card.jpeg
+share-img: /assets/img/high-impact-message-card.jpeg
 cover-img: /assets/img/upperclass.jpg
 gh-repo: coopersmout/homepage
 gh-badge: [star, fork, follow]

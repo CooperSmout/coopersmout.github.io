@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Neuroscientist. Strategist. Open science advocate. Psychonaut. Meditator. Dancer.
+subtitle: Visionary. Strategist. Architect. Neuroscientist. Entrepreneur. Psychonaut. Dancer.
 cover-img:
   - "/assets/img/glasshouse_mountains.jpeg" : "Glasshouse Mountains, Australia (2020)"
 ---

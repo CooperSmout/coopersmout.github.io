@@ -8,6 +8,7 @@ title: Education and Awards
 * 2020 PhD Unlimited course (University of Queensland, Australia)
 * 2020 Social Enterprise Explorers course (University of Queensland, Australia)
 * 2020 Doctor of Philosophy (PhD) in Cognitive Neuroscience (Queensland Brain Institute, Australia)
+  * 2020 **[Dean's Award for Outstanding HDR Thesis](https://my.uq.edu.au/information-and-services/higher-degree-research/my-thesis/deans-award-outstanding-hdr-theses)**
   * 2018 **Endeavour Postgraduate Scholarship** (competitive national award)
   * 2017 Centre for Integrative Brain Function Travel Award
   * 2017 UQ Candidate Development Award

@@ -1,3 +1,6 @@
+"Sorry to email you cold, I was wondering whether this SIPS session ever got worked into something?
+https://docs.google.com/document/d/15URJJhzn_MEEErBioARcGQBvdHhEENyZ3BW7mtfWIJ0/edit"
+
 One of the breakout rooms in that discussion group featured a few people from the Replicats project, which is an ongoing project to collect replicability estimates. It might be worth looking up, if you’re not already familiar. 
 
 On my end, the learnings from that discussion group fed into a project at the eLIFE Sprint 2021, called MERITS, which was a fun little prototype of a multi-dimensional database for research contributions. You can see my 3 min intro to MERITS here (we also recorded a post-video summary of the prototype we built, but I’d have to search harder to find it). 

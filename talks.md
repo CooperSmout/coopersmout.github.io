@@ -15,6 +15,8 @@ title: Talks
 
 **Smout, C.** (2023). _WisdOHM: A novel app and metascientific system for ranking and rewarding diverse contributions_. Discussion group at the 5th meeting of the Association for Interdisciplinary Meta-research & Open Science, Brisbane, Australia.
 
+**Smout, C.**, Holford, D., & Masuzzo, P. (2021). [_MERITS: Metaresearch Evaluation Repository for Identifying Trustworthy Science_](https://youtu.be/_ee4ESnzI40?si=r4OlfI4baxOKZMT5). Hackathon project at the eLife Innovation Sprint (online).
+
 **Smout, C.** (2021). [_Accelerating cultural change with collective action: A Project Free Our Knowledge update_](https://youtu.be/GYja8wMob4c). Lightning talk at the 6th meeting of the Society for the Improvement of Psychological Science (online).
 
 **Smout, C.** (2021). [_Reimagining the incentivization structure in academia_](https://youtu.be/Q33K-nkzHj0). **Invited workshop** at the 27th meeting of the Organization for Human Brain Mapping (online).

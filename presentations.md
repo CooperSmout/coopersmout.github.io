@@ -1,13 +1,29 @@
 ---
 layout: page
-title: Talks
+title: Presentations
 ---
+
+**Smout, C.** (2024). _Quantifying value and incentivising contributions to diverse communities_. 30 minute talk at the ZuBerlin pop-up city, Berlin, Germany.
+
+**Smout, C.** (2024). _A universal framework for recognising valuable contributions to diverse communities_. Lightning talk at the 9th meeting of the Society for the Improvement of Psychological Science, Nairobi, Kenya.
+
+**Smout, C.** (2024). _Decentralised Science_. **Invited panel discussion** at the Zanzalu pop-up city, Zanzibar, Tanzania.
+
+**Smout, C.** (2024). _Who watches the watchers?_ Self-referential peer-review for autonomous organisations. 60 minute talk at the Zanzalu pop-up city, Zanzibar, Tanzania.
+
+**Smout, C.** (2024). [_WISDOM: A universal framework for commons-oriented communities_](https://youtu.be/yUmmEZqdGRw?si=mnFnqvaufWGREPeE). Lightning talk at the Astera Institute Open Science Demo Night, San Francisco, USA.
+
+**Smout, C.** (2023). _WisdOHM: A novel app and metascientific system for ranking and rewarding diverse contributions_. Discussion group at the 5th meeting of the Association for Interdisciplinary Meta-research & Open Science, Brisbane, Australia.
 
 **Smout, C.** (2021). [_Accelerating cultural change with collective action: A Project Free Our Knowledge update_](https://youtu.be/GYja8wMob4c). Lightning talk at the 6th meeting of the Society for the Improvement of Psychological Science (online).
 
 **Smout, C.** (2021). [_Reimagining the incentivization structure in academia_](https://youtu.be/Q33K-nkzHj0). **Invited workshop** at the 27th meeting of the Organization for Human Brain Mapping (online).
 
 **Smout, C.** (2021). [_Introduction to Project Free Our Knowledge_](https://youtu.be/1SQ-h5nYJm8). Lightning talk at the 2021 meeting of the UK Reproducibility Network (online).
+
+Pottier, P., **Smout, C.**, Nakagawa, S. (2021). _Registered Reports Now_. Hackathon at the 1st meeting of the Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (online).
+
+**Smout, C.** (2021). _Introducing Project Free Our Knowledge: the collective action platform for researchers_. Short presentation at the 1st meeting of the Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (online).
 
 **Smout, C.** (2020). [_Project Free Our Knowledge Update_](https://youtu.be/vzB7Vh_gkLs). Lightning talk at the 2nd meeting of the Association for Interdisciplinary Meta-Research and Open Science (online).
 

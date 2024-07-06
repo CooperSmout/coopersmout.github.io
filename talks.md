@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presentations
+title: Talks
 ---
 
 **Smout, C.** (2024). _Quantifying value and incentivising contributions to diverse communities_. 30 minute talk at the ZuBerlin pop-up city, Berlin, Germany.

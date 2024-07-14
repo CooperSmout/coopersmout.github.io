@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Visionary. Entrepreneur. Information architect. Metascientist. Psychonaut. Dancer.
+subtitle: Dreamer. Entrepreneur. Open Scientist. Metascientist. Dancer.
 cover-img:
   - "/assets/img/glasshouse_mountains.jpeg" : "Glasshouse Mountains, Australia (2020)"
 ---

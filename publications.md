@@ -19,4 +19,4 @@ McFadyen, J., **Smout, C. A.**, Tsuchiya, N., Mattingley, J. B., & Garrido, M. I
 
 **Smout, C. A.**, & Mattingley, J. B. (2013). [*Attending to the Unseen: The Effects of Spatial Attention on Neural Responses to Visible and Invisible Stimuli.*](https://doi.org/10.14264/uql.2020.818) The University of Queensland (unpublished Honours thesis). 
 
-(see my ORCID profile [here](https://orcid.org/0000-0003-1144-3272))
+(see my [ORCID profile](https://orcid.org/0000-0003-1144-3272) or [full CV](https://docs.google.com/document/d/1CR1-I1HJFpZ3e817Tw-4_mz0Jh2Baho3de_KcnhdOUM/edit?usp=sharing))

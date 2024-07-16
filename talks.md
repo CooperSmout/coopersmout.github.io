@@ -69,3 +69,5 @@ Tennant, J., Caron, B., Havemann, J., Guay, S., Colomb, J., Lantsoght, E., Tóth
 **Smout, C.**, & Mattingley, J. (2015). _Spatial attention and awareness are distinct neural processes._ 5th meeting of the Australasian Cognitive Neuroscience Society, Auckland, New Zealand (poster prize awarded). 
 
 **Smout, C.**, & Mattingley, J. (2014). _Attending to the unseen._ 12th International Conference for Cognitive Neuroscience, Brisbane, Australia.
+
+(see my [ORCID profile](https://orcid.org/0000-0003-1144-3272) or [full CV](https://docs.google.com/document/d/1CR1-I1HJFpZ3e817Tw-4_mz0Jh2Baho3de_KcnhdOUM/edit?usp=sharing))

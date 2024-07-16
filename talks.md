@@ -13,7 +13,7 @@ title: Talks
 
 **Smout, C.** (2024). [_WISDOM: A universal framework for commons-oriented communities_](https://youtu.be/yUmmEZqdGRw?si=mnFnqvaufWGREPeE). Lightning talk at the Astera Institute Open Science Demo Night, San Francisco, USA.
 
-**Smout, C.** & Sierra, A. (2024). WISDOM: An open source framework for self-organising communities. Workshop at the Vibeclipse Unconference, Austin, Texas, USA.
+**Smout, C.** & Sierra, A. (2024). _WISDOM: An open source framework for self-organising communities._ Workshop at the Vibeclipse Unconference, Austin, Texas, USA.
 
 **Smout, C.** (2023). _WisdOHM: A novel app and metascientific system for ranking and rewarding diverse contributions_. Discussion group at the 5th meeting of the Association for Interdisciplinary Meta-research & Open Science, Brisbane, Australia.
 

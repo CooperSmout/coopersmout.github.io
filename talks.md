@@ -13,6 +13,8 @@ title: Talks
 
 **Smout, C.** (2024). [_WISDOM: A universal framework for commons-oriented communities_](https://youtu.be/yUmmEZqdGRw?si=mnFnqvaufWGREPeE). Lightning talk at the Astera Institute Open Science Demo Night, San Francisco, USA.
 
+**Smout, C.** & Sierra, A. (2024). WISDOM: An open source framework for self-organising communities. Workshop at the Vibeclipse Unconference, Austin, Texas, USA.
+
 **Smout, C.** (2023). _WisdOHM: A novel app and metascientific system for ranking and rewarding diverse contributions_. Discussion group at the 5th meeting of the Association for Interdisciplinary Meta-research & Open Science, Brisbane, Australia.
 
 **Smout, C.**, Holford, D., & Masuzzo, P. (2021). [_MERITS: Metaresearch Evaluation Repository for Identifying Trustworthy Science_](https://youtu.be/_ee4ESnzI40?si=r4OlfI4baxOKZMT5). Hackathon project at the eLife Innovation Sprint (online).

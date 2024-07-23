@@ -16,7 +16,6 @@ author: Cooper Smout
 navbar-links:
   About: "about"
   Open Science: "openscience"
-#  Aquaponics: "aquaponics"
   Poker: "poker"
   Resources:
     - Publications: "publications"
@@ -44,6 +43,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "cooper.smout@gmail.com"
+  telegram: coopersmout
   mailinglist: "http://eepurl.com/hE3xWf"
   facebook: coopersmout
   github: coopersmout
@@ -51,20 +51,19 @@ social-network-links:
 #  patreon: DeanAttali
   youtube: user/coopersmout
 #  reddit: yourname
-  linkedin: cooper-smout-phd-623137193
+  linkedin: cooper-smout-623137193/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: cooperboogie
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0003-1144-3272
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
@@ -82,7 +81,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+url-pretty: "openheartmind.org"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -94,7 +93,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "research,academia,neuroscience,openscience,poker,aquaponics"
+keywords: "research,academia,neuroscience,openscience,poker,festival"
 
 # --- Colours / background image --- #
 

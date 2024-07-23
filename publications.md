@@ -3,7 +3,11 @@ layout: page
 title: Publications
 ---
 
-Besançon, L., Peiffer-Smadja, N., Segalas, C., Jiang, H., Masuzzo, P., **Smout, C.**, Deforet, M., & Leyrat, C. (2021). [*Open Science Saves Lives: Lessons from the COVID-19 Pandemic.*](https://doi.org/10.1186/s12874-021-01304-y) BMC Medical Research Methodology, 21(117), 1-18.
+**Smout, C.**, Holford, D., Garner, K., Illanes, M., Martinez, P., Campbell, M., Khormi, I., Gomes, D., Bayer, J., Bradley, C., Schettino, A., Sunami, N., Mansour L., S., & Coelho, L. P. (2023). [*An Open Code Pledge for the Neuroscience Community*](https://doi.org/10.31222/osf.io/vrwm7). Short article within Nikolaidis, A. et al. (2023). [*Proceedings of the OHBM Brainhack 2021*](https://doi.org/10.52294/258801b4-a9a9-4d30-a468-c43646391211). Aperture Neuro, 3, 12-13.
+
+Gomes, D. G. E., Pottier, P., Crystal-Ornelas R., Hudgins E. J., Foroughirad V., Sánchez-Reyes L. L., Turba R., Martinez P. A., Moreau D., Bertram M. G., **Smout C.**, & Gaynor K. M. (2022). [*Why don't we share data and code? Perceived barriers and benefits to public archiving practices*](https://doi.org/10.1098/rspb.2022.1113). Proceedings of the Royal Society B: Biological Sciences, 289(1987).
+
+Besançon, L., Peiffer-Smadja, N., Segalas, C., Jiang, H., Masuzzo, P., **Smout, C.**, Deforet, M., & Leyrat, C. (2021). [*Open Science Saves Lives: Lessons from the COVID-19 Pandemic*](https://doi.org/10.1186/s12874-021-01304-y). BMC Medical Research Methodology, 21(117), 1-18.
 
 **Smout, C. A.**, (2020). [*Great expectations: The neural mechanisms of prediction and attention in visual awareness.*](https://doi.org/10.14264/uql.2020.818) Queensland Brain Institute, The University of Queensland (PhD thesis). 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "If I can't dance, it's not my revolution" -- Emma Goldman
+subtitle: "If I can't dance, it's not my revolution"
 cover-img:
   - "/assets/img/glasshouse_mountains.jpeg" : "Glasshouse Mountains, Australia (2020)"
 ---

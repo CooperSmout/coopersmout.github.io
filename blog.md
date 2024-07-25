@@ -3,4 +3,4 @@ layout: home
 title: Blog
 ---
 
-See the OHM website for newer posts. 
+See the [Open Heart + Mind blog](https://openheartmind.org/news) for more recent posts. 

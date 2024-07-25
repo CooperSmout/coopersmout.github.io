@@ -22,7 +22,7 @@ navbar-links:
     - Talks: "talks"
     - Awards: "awards"
     - Meditation: "meditations"
-#    - Blog: "blog"
+    - Blog: "blog"
 
 # --- Logo --- #
 

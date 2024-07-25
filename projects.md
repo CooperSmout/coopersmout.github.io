@@ -13,7 +13,7 @@ comments: false
 ## WISDOM
 _Weighted Information Schema for Distributed Open Metrics_
 
-WISDOM is a generalizable framework that began life as a disruptive scholarly publishing model and evolved through active experimentation at [Open Heart + Mind](https://openheartmind.org) to become a generalizable framework for diverse, self-organizing communities. By creating a fair, transparent system for recognizing and rewarding all forms of contribution, WISDOM empowers contributors and connects diverse communities with aligned goals.
+WISDOM is a generalizable framework designed from first principles to revolutionize the way communities recognize and reward contributions. It began life as a radically transparent scholarly publishing model, designed to disrupt the scholarly publishing industry, and was later evolved through active experimentation at [Open Heart + Mind](https://openheartmind.org) to become a generalizable framework for diverse communities. By creating a fair, transparent system for recognizing and rewarding all forms of contribution, WISDOM empowers contributors and connects diverse communities with aligned goals.
 
 At the heart of WISDOM is an inclusive review protocol with immediate rewards for contribution reviews, which are converted into group-level metrics showing the diverse qualities of contributions. Contributors are then rewarded with tokens representing the value of their contibutions, and metrics representing their expertise and reliability. The entire process is open, decentralized and autonomous, ensuring everyone can participate while guarding against bias and cheating through self-referential meta-reviews. Learn more by watching this [quick video introduction](https://www.youtube.com/watch?v=yUmmEZqdGRw), or by reading more on the [Open Heart + Mind website](https://openheartmind.org/research/) or our [Github README] (https://github.com/openheartmind/WISDOM).
 
@@ -31,7 +31,7 @@ Open science practices have the potential to radically transform the way scienti
 
 [Project Free Our Knowledge](https://freeourknowledge.org/) aims to overcome this [collective action problem](https://en.wikipedia.org/wiki/Collective_action_problem) by organising critical masses of researchers to act together. Using our [open source website](https://freeourknowledge.org/), researchers can pledge to take action *if and when a critical mass of pledges is reached*. By acting together, we hope to accelerate the adoption of open science practices in academia, while protecting those individuals who feel unsafe to act on their own. 
 
-After founding and leading this project for four years, I handed it over to a new board in 2023 so I could focus on OHM. See our [website](https://freeourknowledge.org/) for current campaigns and my [presentations](/presentations) for conferences where I've shared these ideas.
+After founding and leading this project for four years, I handed it over to a new board in 2023 so I could focus on OHM. See our [website](https://freeourknowledge.org/) for current campaigns and a list of [conferences](/presentations) where I've shared these ideas.
 
 ## MERITS
 _Metaresearch Evaluation Repository to Identify Trustworthy Science_

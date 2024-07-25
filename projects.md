@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Science Projects
+title: Projects
 subtitle: Knowledge is too important to be locked up
 cover-img: 
   - "/assets/img/wearable_badges_cropped.jpg" : "Badges I made for promoting Project FOK (2019)"

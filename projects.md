@@ -13,12 +13,9 @@ comments: false
 ## WISDOM
 _Weighted Information Schema for Distributed Open Metrics_
 
-WISDOM is a generalizable framework that began as a transformative scholarly publishing model and evolved through active experimentation at OHM Gatherings to become a generalizable framework for diverse, self-organizing communities. By creating a fair, transparent system for recognizing and rewarding all forms of contribution, WISDOM empowers contributors and connects diverse communities with aligned goals.
+WISDOM is a generalizable framework that began life as a disruptive scholarly publishing model and evolved through active experimentation at [Open Heart + Mind](https://openheartmind.org) to become a generalizable framework for diverse, self-organizing communities. By creating a fair, transparent system for recognizing and rewarding all forms of contribution, WISDOM empowers contributors and connects diverse communities with aligned goals.
 
-<iframe width="560" height="315" style="text-align:center" src="https://www.youtube.com/watch?v=yUmmEZqdGRw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{: .mx-auto.d-block :}
-
-
-At the heart of WISDOM is an inclusive review protocol with immediate rewards for contribution reviews, which are converted into group-level metrics showing the diverse qualities of contributions. Contributors are then rewarded with tokens representing the value of their contibutions, and metrics representing their expertise or reliability. The entire process is open, decentralized and autonomous, ensuring everyone can participate while guarding against bias and gaming through a novel self-referential meta-review design. Read more about our experiments to develop WISDOM [here](https://openheartmind.org/research/) and find [WISDOM on Github](https://github.com/openheartmind/WISDOM).
+At the heart of WISDOM is an inclusive review protocol with immediate rewards for contribution reviews, which are converted into group-level metrics showing the diverse qualities of contributions. Contributors are then rewarded with tokens representing the value of their contibutions, and metrics representing their expertise and reliability. The entire process is open, decentralized and autonomous, ensuring everyone can participate while guarding against bias and cheating through self-referential meta-reviews. Learn more by watching this [quick video introduction](https://www.youtube.com/watch?v=yUmmEZqdGRw), or by reading more on the [Open Heart + Mind website](https://openheartmind.org/research/) or our [Github README] (https://github.com/openheartmind/WISDOM).
 
 ## OHM Gathering
 _Diverse festivals co-created by the Open Heart + Mind Community_

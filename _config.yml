@@ -21,6 +21,7 @@ navbar-links:
     - Publications: "publications"
     - Talks: "talks"
     - Awards: "awards"
+    - Resume: "resume"
     - Meditations: "meditations"
 
 # --- Logo --- #

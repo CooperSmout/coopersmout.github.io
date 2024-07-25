@@ -22,7 +22,7 @@ Learn more by watching this [video introduction](https://www.youtube.com/watch?v
 ## OHM Gathering
 _Gift-based festivals co-created by the Open Heart + Mind (OHM) community_
 
-Current political and information systems have proven inadequate to deal with the challenges we face as a global society. Society is becoming increasingly fractured, with communities retreating online and forming echo chambers that isolate rather than divide. In the wake of COVID, it has become clear that we need more spaces for people to connect and share diverse ideas and experiences in a non-judgemental setting. 
+Current political and information systems have proven inadequate to deal with the challenges we face as a global society. Society is becoming increasingly fractured, with communities retreating online and forming echo chambers that isolate rather than unite. In the wake of COVID, it has become clear that we need more spaces for people to connect and share diverse ideas and experiences in a non-judgemental setting. 
 
 OHM Gatherings are inclusive spaces where people come together to share art, science, wisdom, goods and services with the community. We openly record and peer-review these contributions, feeding learnnings from these experiments into the WISDOM framework. Our overarching goal with this project is to develop transparent contribution templates that people around the world can use to replicate OHM gatherings in a decentralised and autonomous fashion. Read more about some of our gatherings [here](https://openheartmind.org/community/).
 

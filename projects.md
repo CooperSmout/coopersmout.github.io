@@ -15,7 +15,8 @@ _Weighted Information Schema for Distributed Open Metrics_
 
 WISDOM is a generalizable framework that began as a transformative scholarly publishing model and evolved through active experimentation at OHM Gatherings to become a generalizable framework for diverse, self-organizing communities. By creating a fair, transparent system for recognizing and rewarding all forms of contribution, WISDOM empowers contributors and connects diverse communities with aligned goals.
 
-<iframe width="560" height="315" style="text-align:center" src="https://youtu.be/yUmmEZqdGRw?si=3xHgK9X04kV7s54O" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{: .mx-auto.d-block :}
+<iframe width="560" height="315" style="text-align:center" src="https://www.youtube.com/watch?v=yUmmEZqdGRw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{: .mx-auto.d-block :}
+
 
 At the heart of WISDOM is an inclusive review protocol with immediate rewards for contribution reviews, which are converted into group-level metrics showing the diverse qualities of contributions. Contributors are then rewarded with tokens representing the value of their contibutions, and metrics representing their expertise or reliability. The entire process is open, decentralized and autonomous, ensuring everyone can participate while guarding against bias and gaming through a novel self-referential meta-review design. Read more about our experiments to develop WISDOM [here](https://openheartmind.org/research/) and find [WISDOM on Github](https://github.com/openheartmind/WISDOM).
 

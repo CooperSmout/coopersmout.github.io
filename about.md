@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About
 subtitle: "If I can't dance, it's not my revolution"
 cover-img:
   - "/assets/img/glasshouse_mountains.jpeg" : "Glasshouse Mountains, Australia (2020)"

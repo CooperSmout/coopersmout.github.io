@@ -15,14 +15,14 @@ author: Cooper Smout
 
 navbar-links:
   About: "about"
-  Open Science: "openscience"
+  Projects: "projects"
+  Publications: "publications"
   Poker: "poker"
-  Resources:
-    - Publications: "publications"
+  More:
     - Talks: "talks"
     - Awards: "awards"
-    - Resume: "resume"
-    - Meditations: "meditations"
+    - Meditation: "meditations"
+#    - Blog: "blog"
 
 # --- Logo --- #
 
@@ -45,7 +45,6 @@ round-avatar: true
 social-network-links:
   email: "cooper.smout@gmail.com"
   telegram: coopersmout
-# mailinglist: "http://eepurl.com/hE3xWf"
   facebook: coopersmout
   github: coopersmout
   twitter: coopsmout
